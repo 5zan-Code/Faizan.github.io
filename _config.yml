@@ -50,20 +50,20 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Faizan and I'm a network and system administrator. As well as administrating systems I also have experience cloud computing and DevOps. Right now I'm working a Systems and Desktop Support Technician @ Linamar Corp.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Gym</mark>
+  I am most skilled in: <mark>System Architect</mark>, <mark>AWS</mark> and <mark>Gym</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Awesome Projects
+        title: Awesome Project
         link: github.com/5zan-code
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  5zan-Code/FoodExpress-Ecommerce
             icon: fab fa-github
-            url: github.com/5zan-code/resume-
+            url: github.com/5zan-Code/FoodExpress-Ecommerce
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -124,7 +124,7 @@ content:
       - layout: left
         title: Conestoga College (Waterloo)
         caption: 2021 - 2022
-        sub_title: Post Graduate Certification (Mobile Solution Development)
+        sub_title: Post Graduate Cert (Mobile Solution Development)
         quote: >
           The college was founded in 1967 as the Conestoga College of Applied Arts and Technology, one of many such institutions established in that time by the Ontario government to grant diplomas and certificates in career-related, skills-oriented programs. It was renamed in 2012 when the government extended the school's reach, namely to grant degrees in technology-based fields.
         description: | # this will include new lines to allow paragraphs
@@ -142,7 +142,7 @@ content:
       - Swimming
 
       Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+      (/images/landscape-tree.jpg) "Trees")
 
 # Footer
 footer_show_references: true
