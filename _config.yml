@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+#repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Faizan Ansari
-title: Network System Administrator
+title: System & Network Administrator
 email: f97aizan@gmail.com
 website: https://5zan-code.github.io/resume-/
 
@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Awesome Projects
         link: github.com/5zan-code
         # link_text: Project Website
         additional_links:
@@ -95,7 +95,7 @@ content:
         quote: >
           Deploying a website while leveraging cloud technologies and using automated tools makes my life easy.
         description: | # this will include new lines to allow paragraphs
-            Using AWS cloud infrastructure and internal networking my team and I deployed and automate the process of website and patch updates.
+            Involves a cultural shift, practices, and tools that emphasize communication, collaboration, automation, and integration between software developers and IT operations teams. DevOps focuses on breaking down silos, improving deployment frequency, ensuring faster time-to-market, and enhancing the quality of software by fostering an environment of continuous integration, continuous delivery/deployment (CI/CD), automated testing, monitoring, and feedback loops. This methodology aims to achieve more efficient, agile, and reliable software development and deployment processes, fostering innovation and delivering value to end-users more rapidly and consistently.
       
       - layout: left
         title: The Home Lab
@@ -106,8 +106,7 @@ content:
         quote: >
           Creating our own home infrastructure make me feel proud and happy
         description: | # this will include new lines to allow paragraphs
-            This allows my home users(Friends)'s computers talk to each other without knowing there IP Address.
-
+            A home lab refers to a personalized environment where individuals or enthusiasts set up a network or collection of computers running the Linux operating system for various purposes such as learning, testing, experimenting, or simulating real-world scenarios. This setup might include multiple Linux-based servers, virtual machines, containers, or networking devices within a home or personal space. It serves as a hands-on platform for honing skills in Linux administration, cybersecurity, networking, software development, or any other area that benefits from practical, real-world experience. The Linux home lab allows individuals to experiment with different configurations, software, services, and tools, fostering a deeper understanding of Linux systems and related technologies in a safe, controlled environment.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -143,7 +142,7 @@ content:
       - Swimming
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
