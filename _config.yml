@@ -88,8 +88,8 @@ content:
       
       - layout: left
         title: CapTec Americas
-        #link: boringcompany.com
-        link_text: Mhttps://www.captecamericas.com/
+        link: https://www.captecamericas.com/
+        link_text: CapTec Americas
         sub_title: System Build Technician
         caption: December 2022 - March 2023
         quote: >
