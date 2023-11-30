@@ -76,19 +76,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Home Lab
-        #link: boringcompany.com
-        link_text: MyHomeLab
-        sub_title: Network System Administrator
-        caption: November 2021 - Present
-        quote: >
-          Creating our own home infrastructure make me feel proud and happy
-        description: | # this will include new lines to allow paragraphs
-            This allows my home users(Friends)'s computers talk to each other without knowing there IP Address.
-    
-    #layout2: list # Type of content section (list/text)
-    content2:
-      - layout: left
         title: Multi Tier Web Application
         link: www.iaiitsolutions.com/
         link_text: IAI IT Solutions 
@@ -98,6 +85,18 @@ content:
           Deploying a website while leveraging cloud technologies and using automated tools makes my life easy.
         description: | # this will include new lines to allow paragraphs
             Using AWS cloud infrastructure and internal networking my team and I deployed and automate the process of website and patch updates.
+      
+      - layout: left
+        title: The Home Lab
+        #link: boringcompany.com
+        link_text: MyHomeLab
+        sub_title: Network System Administrator
+        caption: November 2021 - Present
+        quote: >
+          Creating our own home infrastructure make me feel proud and happy
+        description: | # this will include new lines to allow paragraphs
+            This allows my home users(Friends)'s computers talk to each other without knowing there IP Address.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -111,9 +110,7 @@ content:
           During my time at Amity, I have learned core knowledge of computers and it working (OS, Chipset architecture, Algorithms, Data Structure, and AI). I also participate many other cultural and sports events.
 
           I have realy enjoyed my 4 years of engineering, teach me a lot about technologies and life. 
-
-    layout2: list # Type of content section (list/text)
-    content2:
+          
       - layout: left
         title: Conestoga College (Waterloo)
         caption: 2021 - 2022
