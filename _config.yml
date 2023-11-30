@@ -12,7 +12,7 @@ email: f97aizan@gmail.com
 website: https://5zan-code.github.io/resume-/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: FaizanA74080881
@@ -82,10 +82,21 @@ content:
         sub_title: System and Desktop Support Technician
         caption: March 2023 - Present
         quote: >
-          Helping people and some maintaince of the servers, and VMs  
+          Helping people and some maintaince of the servers, and VMs.  
         description: | # this will include new lines to allow paragraphs
           Providing technical assistance and resolving issues related to computer hardware, software, operating systems, and network connectivity within an organization. They handle a range of tasks, including installing, configuring, and maintaining computer systems, diagnosing hardware and software problems, troubleshooting network issues, and ensuring the efficient functioning of desktops, laptops, and other devices. These technicians play a critical role in ensuring that users have reliable access to technology, resolving technical issues promptly, and implementing solutions to optimize system performance and user experience, ultimately contributing to the smooth operation of an organization's IT infrastructure  
       
+      - layout: left
+        title: CapTec Americas
+        #link: boringcompany.com
+        link_text: Mhttps://www.captecamericas.com/
+        sub_title: System Build Technician
+        caption: December 2022 - March 2023
+        quote: >
+          Building bulky PCs and Server make the world running all the time.
+        description: | # this will include new lines to allow paragraphs
+             Responsible for assembling and configuring computer systems or hardware components based on specified requirements or designs. They possess a comprehensive understanding of computer hardware, including CPUs, motherboards, memory, storage devices, and peripherals, and utilize their technical expertise to meticulously assemble these components into functional computer systems. Additionally, system build technicians conduct rigorous testing procedures to ensure the stability, functionality, and performance of the assembled systems, troubleshooting and resolving any hardware issues that may arise during the build process. Their role often involves collaborating with engineers, following technical specifications, and adhering to quality standards to produce reliable and efficient computer systems tailored to meet the needs of clients or organizations.
+
       - layout: left
         title: IAI IT Solutions
         link: www.iaiitsolutions.com/
@@ -97,16 +108,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Involves a cultural shift, practices, and tools that emphasize communication, collaboration, automation, and integration between software developers and IT operations teams. DevOps focuses on breaking down silos, improving deployment frequency, ensuring faster time-to-market, and enhancing the quality of software by fostering an environment of continuous integration, continuous delivery/deployment (CI/CD), automated testing, monitoring, and feedback loops. This methodology aims to achieve more efficient, agile, and reliable software development and deployment processes, fostering innovation and delivering value to end-users more rapidly and consistently.
       
-      - layout: left
-        title: The Home Lab
-        #link: boringcompany.com
-        link_text: MyHomeLab
-        sub_title: Network System Administrator
-        caption: November 2021 - Present
-        quote: >
-          Creating our own home infrastructure make me feel proud and happy
-        description: | # this will include new lines to allow paragraphs
-            A home lab refers to a personalized environment where individuals or enthusiasts set up a network or collection of computers running the Linux operating system for various purposes such as learning, testing, experimenting, or simulating real-world scenarios. This setup might include multiple Linux-based servers, virtual machines, containers, or networking devices within a home or personal space. It serves as a hands-on platform for honing skills in Linux administration, cybersecurity, networking, software development, or any other area that benefits from practical, real-world experience. The Linux home lab allows individuals to experiment with different configurations, software, services, and tools, fostering a deeper understanding of Linux systems and related technologies in a safe, controlled environment.
+      
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
