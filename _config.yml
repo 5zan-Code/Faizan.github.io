@@ -124,7 +124,7 @@ content:
       - layout: left
         title: Conestoga College (Waterloo)
         caption: 2021 - 2022
-        sub_title: Post Graduate Cert (Mobile Solution Development)
+        sub_title: Post Graduate Certification (Mobile Solution Development)
         quote: >
           The college was founded in 1967 as the Conestoga College of Applied Arts and Technology, one of many such institutions established in that time by the Ontario government to grant diplomas and certificates in career-related, skills-oriented programs. It was renamed in 2012 when the government extended the school's reach, namely to grant degrees in technology-based fields.
         description: | # this will include new lines to allow paragraphs
@@ -141,8 +141,7 @@ content:
       - 8 Ball Pool
       - Swimming
 
-      Look at this cool image  
-      (/images/landscape-tree.jpg) "Trees")
+      
 
 # Footer
 footer_show_references: true
