@@ -84,7 +84,7 @@ content:
               #   icon: fab fa-github
               #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
             quote: >
-              I am at the stage of learning and I will keep grasping knowledge until I turn 63 years.
+              Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
             description: | # this will include new lines to allow paragraphs
               Created this project using MERN stack. Deployed on Heruko web hosting website. Since then I started learning about the system architecture and deployment (DevOps).
 
