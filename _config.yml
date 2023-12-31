@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Faizan and I'm a network and system administrator. As well as administrating systems I also have experience cloud computing and DevOps. Right now I'm working a Systems and Desktop Support Technician @ Linamar Corp.
+  Hi, my name's Faizan, and I'm a Network and System Administrator and Web Developer. As well as administrating systems, I also have experience in <mark>Web Development, Cloud Computing and DevOps</mark>. I'm currently working as a Systems and Desktop Support Technician @ Linamar Corp.
 
   I am most skilled in: <mark>System Architect</mark>, <mark>AWS</mark> and <mark>Gym</mark>
 
@@ -70,7 +70,7 @@ content:
         quote: >
           I am at the stage of learning and I will keep grasping knowledge until I turn 63 years.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning <mark>Linux</mark> I created my own home lab using <mark>CentOS</mark> DNS, Game, and Video streaming server.
+          I started this project as a way of learning <mark>Linux</mark>and <mark>MERN</mark>. I created my own home lab using <mark>CentOS</mark> to host this website using my system admin and web developer skills.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -101,8 +101,8 @@ content:
         title: IAI IT Solutions
         link: www.iaiitsolutions.com/
         link_text: IAI IT Solutions 
-        sub_title: DevOps/ Web Development
-        caption: November 2020 - January 2023
+        sub_title: DevOps/Web Development
+        caption: September 2020 - January 2023
         quote: >
           Deploying a website while leveraging cloud technologies and using automated tools makes my life easy.
         description: | # this will include new lines to allow paragraphs
