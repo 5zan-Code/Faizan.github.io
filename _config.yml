@@ -61,9 +61,9 @@ content:
         link: github.com/5zan-code
         # link_text: Project Website
         additional_links:
-          - title:  5zan-Code/FoodExpress-Ecommerce
+          - title:  5zan-Code/MeTube
             icon: fab fa-github
-            url: github.com/5zan-Code/FoodExpress-Ecommerce
+            url: https://github.com/5zan-Code/JS-backend
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
