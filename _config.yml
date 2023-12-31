@@ -73,20 +73,20 @@ content:
           I started this project as a way of learning <mark>Linux</mark>and <mark>MERN</mark>. I created my own home lab using <mark>CentOS</mark> to host this website using my system admin and web developer skills.
    
       - layout: top-middle
-            title: FoodExpres Project
-            link: https://github.com/5zan-Code/FoodExpress-Ecommerce
-            # link_text: Project Website
-            additional_links:
-              - title:  5zan-Code/FoodExpress
-                icon: fab fa-github
-                url: https://github.com/5zan-Code/FoodExpress-Ecommerce
-              # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-              #   icon: fab fa-github
-              #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-            quote: >
-              Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
-            description: | # this will include new lines to allow paragraphs
-              Created this project using MERN stack. Deployed on Heruko web hosting website. Since then, I have been learning about system architecture and deployment (DevOps).
+        title: FoodExpres Project
+        link: https://github.com/5zan-Code/FoodExpress-Ecommerce
+        # link_text: Project Website
+        additional_links:
+        - title:  5zan-Code/FoodExpress
+        icon: fab fa-github
+        url: https://github.com/5zan-Code/FoodExpress-Ecommerce
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme) 
+        quote: >
+          Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+        description: | # this will include new lines to allow paragraphs
+          Created this project using MERN stack. Deployed on Heruko web hosting website. Since then, I have been learning about system architecture and deployment (DevOps).
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
