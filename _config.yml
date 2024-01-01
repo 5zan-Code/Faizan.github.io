@@ -70,7 +70,7 @@ content:
         quote: >
           I am at the learning stage, and I will keep grasping knowledge until I turn 63 years old.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning <mark>Linux</mark>and <mark>MERN</mark>. I created my own home lab using <mark>CentOS</mark> to host this website using my system admin and web developer skills.
+         I started this project to brush up on my <mark>JavaScript and NodeJS skills</mark>. Creating a replica of YouTube using <mark>MERN</mark> Stack. Designing the backend for now, I may start work on the frontend to finish up the whole application.
    
       - layout: top-middle
         title: FoodExpres Project
