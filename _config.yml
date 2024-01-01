@@ -58,12 +58,12 @@ content:
     content:
       - layout: top-middle
         title: MeTube Project
-        link: https://github.com/5zan-Code/JS-backend
+        link: https://github.com/5zan-Code/MeTube
         # link_text: Project Website
         additional_links:
           - title:  5zan-Code/MeTube
             icon: fab fa-github
-            url: https://github.com/5zan-Code/JS-backend
+            url: https://github.com/5zan-Code/MeTube
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
