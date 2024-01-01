@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Faizan, and I'm a Network and System Administrator and Web Developer. As well as administrating systems, I have experience in <mark>Web Development, Cloud Computing and DevOps</mark>. I work as a <mark>Systems and Desktop Support Technician @ Linamar Corp.</mark>
+  Hi, my name's Faizan, and I'm a Network and System Administrator and Web Developer. As I administrate systems, I have experience in <mark>Web Development, Cloud Computing and DevOps</mark>. I work as a <mark>Systems and Desktop Support Technician @ Linamar Corp.</mark>
 
-  I am most skilled in: <mark>System Architect</mark>, <mark>Cloud</mark> and <mark>Gym</mark>
+  I am most skilled in: <mark>System Admin and Architect</mark>, <mark>Cloud</mark> and <mark>Gym</mark>
 
 content:
   - title: Projects # Title for the section
