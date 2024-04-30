@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Faizan, and I'm a Network and System Administrator and Web Developer. As well as administrating systems, I have experience in <mark>Web Development, Cloud Computing and DevOps</mark>. I work as a <mark>Systems and Desktop Support Technician @ Linamar Corp.</mark>
+  Hi, my name's Faizan, and I'm a System and Application Administrator as well deep knowledge of WebDev. I work as a <mark>Application Administrator @ Linamar Corporation.</mark>
 
-  I am most skilled in: <mark>System Architect</mark>, <mark>Cloud</mark> and <mark>Gym</mark>
+  I am most skilled in: <mark>System, Network, Cloud and Application Administration</mark>
 
 content:
   - title: Experience # Title for the section
@@ -60,8 +60,19 @@ content:
         title: Linamar Corp
         link: https://www.linamar.com/
         link_text: Linamar Corp 
+        sub_title: Application Administrator
+        caption: April 2024 - Present
+        quote: >
+          Handling around 6000 users worldwide   
+        description: | # this will include new lines to allow paragraphs
+          Configuration, and maintenance of software applications within an organization. They provide technical support to users, manage security measures, and ensure data backups and recovery procedures are in place. With expertise in various applications and IT infrastructure, they troubleshoot issues, optimize performance, and document best practices. Strong communication skills are essential for interacting with users and conveying technical information effectively. A bachelor's degree in computer science or related field, along with several years of experience in system administration, is typically required for this role  
+      
+      - layout: left
+        title: Linamar Corp
+        link: https://www.linamar.com/
+        link_text: Linamar Corp 
         sub_title: System and Desktop Support Technician
-        caption: March 2023 - Present
+        caption: March 2023 - April 2024
         quote: >
           Help people and do some maintenance of the servers and VMs.  
         description: | # this will include new lines to allow paragraphs
@@ -77,17 +88,6 @@ content:
           Building bulky PCs and servers makes the world run all the time.
         description: | # this will include new lines to allow paragraphs
              Analyse and configure computer systems or hardware components based on specified requirements or designs. They possess a comprehensive understanding of computer hardware, including CPUs, motherboards, memory, storage devices, and peripherals, and utilize their technical expertise to meticulously assemble these components into functional computer systems. Additionally, system build technicians conduct rigorous testing procedures to ensure the stability, functionality, and performance of the assembled systems, troubleshooting and resolving any hardware issues that may arise during the build process. Their role often involves collaborating with engineers, following technical specifications, and adhering to quality standards to produce reliable and efficient computer systems tailored to meet the needs of clients or organizations.
-
-      - layout: left
-        title: IAI IT Solutions
-        link: www.iaiitsolutions.com/
-        link_text: IAI IT Solutions 
-        sub_title: DevOps/Web Development
-        caption: September 2020 - January 2023
-        quote: >
-          Deploying a website while leveraging cloud technologies and using automated tools makes my life easy.
-        description: | # this will include new lines to allow paragraphs
-            It involves a cultural shift, practices, and tools emphasizing communication, collaboration, automation, and integration between software developers and IT operations teams. DevOps focuses on breaking down silos, improving deployment frequency, ensuring faster time-to-market, and enhancing the quality of software by fostering an environment of continuous integration, continuous delivery/deployment (CI/CD), automated testing, monitoring, and feedback loops. This methodology aims to achieve more efficient, agile, and reliable software development and deployment processes, fostering innovation and delivering value to end-users more rapidly and consistently.
       
       
   - title: Education # Title for the section
@@ -118,7 +118,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and system engineering, some of my other interests and hobbies are:
+      Alongside my interests in technology; Here's, some of my other interests and hobbies:
       - Gym
       - Gaming (PC and PS4)
       - 8 Ball Pool
