@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Faizan Ansari
-title: System & Network Administrator
+title: System & Application Administrator
 email: f97aizan@gmail.com
 website: https://5zan-code.github.io/resume-/
 
@@ -48,45 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Faizan, and I'm a Network and System Administrator and Web Developer. As I administrate systems, I have experience in <mark>Web Development, Cloud Computing and DevOps</mark>. I work as a <mark>Systems and Desktop Support Technician @ Linamar Corp.</mark>
+  Hi, my name's Faizan, and I'm a System and Application Administrator with deep understanding of WebDev. Right now, I'm work as an <mark>Application Administrator @ Linamar Corp.</mark>
 
-  I am most skilled in: <mark>System Admin and Architect</mark>, <mark>Cloud</mark> and <mark>Gym</mark>
-
-content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: MeTube Project
-        link: https://github.com/5zan-Code/MeTube
-        # link_text: Project Website
-        additional_links:
-          - title:  5zan-Code/MeTube
-            icon: fab fa-github
-            url: https://github.com/5zan-Code/MeTube
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          I am at the learning stage, and I will keep grasping knowledge until I turn 63 years old.
-        description: | # this will include new lines to allow paragraphs
-         I started this project to brush up on my <mark>JavaScript and NodeJS skills</mark>. Creating a replica of YouTube using <mark>MERN</mark> Stack. Designing the backend for now, I may start work on the frontend to finish up the whole application.
-   
-      - layout: top-middle
-        title: FoodExpres Project
-        link: https://github.com/5zan-Code/FoodExpress-Ecommerce
-        # link_text: Project Website
-        additional_links:
-          - title:  5zan-Code/FoodExpress
-            icon: fab fa-github
-            url: https://github.com/5zan-Code/FoodExpress-Ecommerce
-        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme) 
-        quote: >
-          Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
-        description: | # this will include new lines to allow paragraphs
-          Created this project using MERN stack. Deployed on Heruko web hosting website. Since then, I have been learning about system architecture and deployment (DevOps).
+  I am most skilled in: <mark>System and Application Administrator</mark>, <mark>Cloud Computing</mark>
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -95,8 +59,17 @@ content:
         title: Linamar Corp
         link: https://www.linamar.com/
         link_text: Linamar Corp 
+        sub_title: Application Administrator
+        caption: April 2024 - Present
+        quote: >
+          Handles around 6000 users all around the world.  
+        description: | # this will include new lines to allow paragraphs
+          Taking care of application and provide support application world divide users.
+          
+        link: https://www.linamar.com/
+        link_text: Linamar Corp 
         sub_title: System and Desktop Support Technician
-        caption: March 2023 - Present
+        caption: March 2023 - April 2024
         quote: >
           Help people and do some maintenance of the servers and VMs.  
         description: | # this will include new lines to allow paragraphs
@@ -113,18 +86,43 @@ content:
         description: | # this will include new lines to allow paragraphs
              Analyse and configure computer systems or hardware components based on specified requirements or designs. They possess a comprehensive understanding of computer hardware, including CPUs, motherboards, memory, storage devices, and peripherals, and utilize their technical expertise to meticulously assemble these components into functional computer systems. Additionally, system build technicians conduct rigorous testing procedures to ensure the stability, functionality, and performance of the assembled systems, troubleshooting and resolving any hardware issues that may arise during the build process. Their role often involves collaborating with engineers, following technical specifications, and adhering to quality standards to produce reliable and efficient computer systems tailored to meet the needs of clients or organizations.
 
-      - layout: left
-        title: IAI IT Solutions
-        link: www.iaiitsolutions.com/
-        link_text: IAI IT Solutions 
-        sub_title: DevOps/Web Development
-        caption: September 2020 - January 2023
-        quote: >
-          Deploying a website while leveraging cloud technologies and using automated tools makes my life easy.
-        description: | # this will include new lines to allow paragraphs
-            It involves a cultural shift, practices, and tools emphasizing communication, collaboration, automation, and integration between software developers and IT operations teams. DevOps focuses on breaking down silos, improving deployment frequency, ensuring faster time-to-market, and enhancing the quality of software by fostering an environment of continuous integration, continuous delivery/deployment (CI/CD), automated testing, monitoring, and feedback loops. This methodology aims to achieve more efficient, agile, and reliable software development and deployment processes, fostering innovation and delivering value to end-users more rapidly and consistently.
-      
-      
+  content:
+    - title: Projects # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+        - layout: top-middle
+          title: MeTube Project
+          link: https://github.com/5zan-Code/MeTube
+          # link_text: Project Website
+          additional_links:
+            - title:  5zan-Code/MeTube
+              icon: fab fa-github
+              url: https://github.com/5zan-Code/MeTube
+            # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #   icon: fab fa-github
+            #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          quote: >
+            I am at the learning stage, and I will keep grasping knowledge until I turn 63 years old.
+          description: | # this will include new lines to allow paragraphs
+           I started this project to brush up on my <mark>JavaScript and NodeJS skills</mark>. Creating a replica of YouTube using <mark>MERN</mark> Stack. Designing the backend for now, I may start work on the frontend to finish up the whole application.
+     
+        - layout: top-middle
+          title: FoodExpres Project
+          link: https://github.com/5zan-Code/FoodExpress-Ecommerce
+          # link_text: Project Website
+          additional_links:
+            - title:  5zan-Code/FoodExpress
+              icon: fab fa-github
+              url: https://github.com/5zan-Code/FoodExpress-Ecommerce
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme) 
+          quote: >
+            Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+          description: | # this will include new lines to allow paragraphs
+            Created this project using MERN stack. Deployed on Heruko web hosting website. Since then, I have been learning about system architecture and deployment (DevOps).
+
+  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
