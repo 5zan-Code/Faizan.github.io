@@ -53,41 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>System Architect</mark>, <mark>Cloud</mark> and <mark>Gym</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: MeTube Project
-        link: https://github.com/5zan-Code/JS-backend
-        # link_text: Project Website
-        additional_links:
-          - title:  5zan-Code/MeTube
-            icon: fab fa-github
-            url: https://github.com/5zan-Code/JS-backend
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          I am at the learning stage, and I will keep grasping knowledge until I turn 63 years old.
-        description: | # this will include new lines to allow paragraphs
-         I started this project to brush up on my <mark>JavaScript and NodeJS skills</mark>. Creating a replica of YouTube using <mark>MERN</mark> Stack. Designing the backend for now, I may start work on the frontend to finish up the whole application.
-   
-      - layout: top-middle
-        title: FoodExpres Project
-        link: https://github.com/5zan-Code/FoodExpress-Ecommerce
-        # link_text: Project Website
-        additional_links:
-          - title:  5zan-Code/FoodExpress
-            icon: fab fa-github
-            url: https://github.com/5zan-Code/FoodExpress-Ecommerce
-        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #   icon: fab fa-github
-        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme) 
-        quote: >
-          Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
-        description: | # this will include new lines to allow paragraphs
-          Created this project using MERN stack. Deployed on Heruko web hosting website. Since then, I have been learning about system architecture and deployment (DevOps).
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
