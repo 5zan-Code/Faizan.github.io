@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
-    content:
+content:
       - layout: left
         title: Linamar Corp
         link: https://www.linamar.com/
@@ -86,7 +86,7 @@ about_content: | # this will include new lines to allow paragraphs
         description: | # this will include new lines to allow paragraphs
              Analyse and configure computer systems or hardware components based on specified requirements or designs. They possess a comprehensive understanding of computer hardware, including CPUs, motherboards, memory, storage devices, and peripherals, and utilize their technical expertise to meticulously assemble these components into functional computer systems. Additionally, system build technicians conduct rigorous testing procedures to ensure the stability, functionality, and performance of the assembled systems, troubleshooting and resolving any hardware issues that may arise during the build process. Their role often involves collaborating with engineers, following technical specifications, and adhering to quality standards to produce reliable and efficient computer systems tailored to meet the needs of clients or organizations.
 
-  content:
+
     - title: Projects # Title for the section
       layout: list # Type of content section (list/text)
       content:
