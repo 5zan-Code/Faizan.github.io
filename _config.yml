@@ -48,43 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Faizan, and I'm a System and Application Administrator with deep understanding of WebDev. Right now, I'm work as an <mark>Application Administrator @ Linamar Corp.</mark>
+  Hi, my name's Faizan, and I'm a Network and System Administrator and Web Developer. As well as administrating systems, I have experience in <mark>Web Development, Cloud Computing and DevOps</mark>. I work as a <mark>Systems and Desktop Support Technician @ Linamar Corp.</mark>
 
-  I am most skilled in: <mark>System and Application Administrator</mark>, <mark>Cloud Computing</mark>
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Linamar Corp
-        link: https://www.linamar.com/
-        link_text: Linamar Corp 
-        sub_title: Application Administrator
-        caption: April 2024 - Present
-        quote: >
-          Handles around 6000 users all around the world.  
-        description: | # this will include new lines to allow paragraphs
-          Taking care of application and provide support application world divide users.
-          
-        link: https://www.linamar.com/
-        link_text: Linamar Corp 
-        sub_title: System and Desktop Support Technician
-        caption: March 2023 - April 2024
-        quote: >
-          Help people and do some maintenance of the servers and VMs.  
-        description: | # this will include new lines to allow paragraphs
-          Providing technical assistance and resolving issues related to computer hardware, software, operating systems, and network connectivity within an organization. They handle a range of tasks, including installing, configuring, and maintaining computer systems, diagnosing hardware and software problems, troubleshooting network issues, and ensuring the efficient functioning of desktops, laptops, and other devices. These technicians play a critical role in ensuring that users have reliable access to technology, resolving technical issues promptly, and implementing solutions to optimize system performance and user experience, ultimately contributing to the smooth operation of an organization's IT infrastructure  
-      
-      - layout: left
-        title: CapTec Americas
-        link: https://www.captecamericas.com/
-        link_text: CapTec Americas
-        sub_title: System Build Technician
-        caption: December 2022 - March 2023
-        quote: >
-          Building bulky PCs and servers makes the world run all the time.
-        description: | # this will include new lines to allow paragraphs
-             Analyse and configure computer systems or hardware components based on specified requirements or designs. They possess a comprehensive understanding of computer hardware, including CPUs, motherboards, memory, storage devices, and peripherals, and utilize their technical expertise to meticulously assemble these components into functional computer systems. Additionally, system build technicians conduct rigorous testing procedures to ensure the stability, functionality, and performance of the assembled systems, troubleshooting and resolving any hardware issues that may arise during the build process. Their role often involves collaborating with engineers, following technical specifications, and adhering to quality standards to produce reliable and efficient computer systems tailored to meet the needs of clients or organizations.
+  I am most skilled in: <mark>System Architect</mark>, <mark>Cloud</mark> and <mark>Gym</mark>
 
 content:
   - title: Projects # Title for the section
