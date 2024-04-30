@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Faizan, and I'm a System and Application Administrator and have deep knowledge of WebDev. I work as a <mark>Application Administrator @ Linamar Corporation.</mark>
+  Hi, my name's Faizan, and I'm a System and Application Administrator and have deep knowledge of WebDev. I work as an <mark>Application Administrator @ Linamar Corporation.</mark>
 
   I am most skilled in: <mark>System, Network, Cloud and Application Administration</mark>
 
