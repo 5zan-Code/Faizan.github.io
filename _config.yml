@@ -9,7 +9,7 @@ version: 2
 name: Faizan Ansari
 title: System & Application Administrator
 email: f97aizan@gmail.com
-website: https://5zan-code.github.io/resume-/
+# website: https://5zan-code.github.io/resume-/
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -128,7 +128,7 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+# references_title: References upon request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
